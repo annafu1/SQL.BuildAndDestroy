@@ -1,0 +1,2 @@
+CREATE TABLE Students (student_name VARCHAR(255) PRIMARY KEY NOT NULL, Address VARCHAR(255), City VARCHAR(255), PostalCode VARCHAR(255), Country VARCHAR(255));
+INSERT INTO Students (student_name, Address, City, PostalCode, Country) values ('Jane Doe', '57 Union St', 'Glasglow', 'G13RB', 'Scotland');

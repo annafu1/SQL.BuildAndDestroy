@@ -1,0 +1,1 @@
+DROP Students WHERE Country = 'Scotland';
