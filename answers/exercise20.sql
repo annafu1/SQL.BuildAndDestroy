@@ -1,1 +1,1 @@
-DROP FROM Students;
+DELETE FROM Students;
